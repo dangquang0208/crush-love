@@ -1,14 +1,8 @@
-# Trang web tỏ tình crush cực kỳ lãng mạn
+# Trang web làm dịu tâm hồn
 
 Link Demo: https://j2c.cc/LOVE-CRUSH
 
-## Author
 
-**Facebook**: <a href="http://fb.com/dn279">andyngojs</a>
-
-## Join Us
-
-**Group Facebook**: <a href="https://fb.com/groups/dobeeteam.community">DOBEE Community</a>
 
 ## Cách sử dụng:
 
