@@ -1,10 +1,10 @@
 const CONFIGDATA = {
-  titleHeader: "Làm ơn Ngọc Duyên hãy hết giận bạn Quang này nhó",
+  titleHeader: "Hà An làm bé người yêu của tui nhoa ",
   descriptionHeader:
-    "Duyên chỉ chọn được một trong hai thoi nên cứ thử de =))))) ^^",
+    "Được chọn  1 trong hai thoi  =))))) ^^",
   buttonYes: "Đồng Ý",
-  buttonNo: "Không! Còn lâu nhé.",
-  titleModar: "Cảm ơn mầy vì đồng ý",
+  buttonNo: "Không!",
+  titleModar: "Cảm ơn bé vì đã đồng ý",
   descriptionModar:
-    'Tớ biết là Duyên sẽ đồng ý mà ^^ </br> Cám ơn Duyên đã đồng ý để hết giận bạn Quang nhó :)) </br> "Nãy t cũng rất buồn đó. </br> Nên m nên hết giận t ik "',
+    'Yêu nắm óooo ^^ </br>hihiiiii ỏoo :))  "',
 };
